@@ -1,4 +1,4 @@
-# Electrathon EV Race Car — Battery System & Drivetrain CAD
+# Electrathon EV Race Car — Battery System, Solar Panels & Drivetrain CAD
 
 ## Video Walkthrough
 [![Battery System Explanation](https://img.youtube.com/vi/NvnO5-E7YSI/0.jpg)](https://www.youtube.com/watch?v=NvnO5-E7YSI)
@@ -13,6 +13,8 @@ Placed 3rd overall.
   and a Jikong BMS
 - Decided cell layout for target voltage and capacity
 - Contributed to CAD design of battery case and drive sprocket using Onshape
+- Assembled and wired solar panels integrated into the car body, we were
+  the only team in the competition with solar capability
 
 ## Battery System
 - BMS: Jikong with cell balancing and overcurrent protection
@@ -47,6 +49,9 @@ Placed 3rd overall.
 
 ### Sprocket — CAD
 ![Sprocket](Sprocket%20Pic.png)
+
+### Solar Panels
+![Solar Panel Assembly](SolarPanel.jpeg)
 
 ### Competition
 ![Finished Car](FinishedCarOvercharge.jpg)
